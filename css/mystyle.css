@@ -1,0 +1,56 @@
+            body {
+                padding-top: 10px;
+                padding-bottom: 20px;
+				
+            }
+			.jumbotron {
+			padding-top: 20px;
+			margin-bottom: 20px;
+			font-size: 21px;
+			font-weight: 200;
+			line-height: 3;
+			color: #595452;
+			background-color: #B18FBF;
+		}
+		.nav-pills{
+			padding-bottom: 25px;
+			border-radius:110px;
+			}
+		.navbar-brand{	
+		font-weight:900;	
+		font-variant:small-caps;
+		}
+		html,body {
+			background-color:#FEFEFF;
+		}
+		img{
+		float:left;
+		display:block;
+		margin-top: 30px;
+		margin-right: 30px;
+		margin-bottom: 10px;
+		border-radius: 10px;
+		box-shadow: 0 2px 4px rgba(0,0,0,.5);
+		}
+		.pagination{
+			margin-left:250px;
+			padding: 5px;
+			}
+		.think{ 
+			font-size: 20px;
+			padding:50px;
+			background-color: #B18FBF;
+			border-radius: 10px;
+			}
+		.t {
+			background-color:#FEFEFF;
+			color:#523959;
+			padding:20px;
+			border-radius: 5px;
+			font-weight:900;
+			}
+		
+			
+	
+		
+		
